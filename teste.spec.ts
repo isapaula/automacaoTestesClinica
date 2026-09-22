@@ -1,5 +1,0 @@
-import { test, expect } from '@playwright/test';
-
-test('test', async ({ page }) => {
-  await page.goto('https://kineticharbor.com/pt/articles/o-que-considerar-ao-contratar-servicos-de-telecomunicacoes?tkn=eyJhbGciOiJIUzI1NiJ9.eyJkb21haW4iOiJraW5ldGljaGFyYm9yLmNvbSIsImNoYW5uZWwiOiJkXzAwNzE5IiwibGFuZyI6IlBUIiwibGFuZ3VhZ2UiOiJQVCIsImNvdW50cnkiOiJiciIsInRyYWNrX2lkIjoiOGQzNTUyMjU4NTliMWFmYWVjN2UxM2U2ZWYyMDNmYzQ4YjgyZTFlMiIsInNhbGViYW5uZXIiOm51bGwsInRhcmdldF91cmwiOiJodHRwczpcL1wva2luZXRpY2hhcmJvci5jb21cL3B0XC9hcnRpY2xlc1wvby1xdWUtY29uc2lkZXJhci1hby1jb250cmF0YXItc2Vydmljb3MtZGUtdGVsZWNvbXVuaWNhY29lcyIsImV4cCI6MTc3MzM0NTgyMX0.WBnzreDWBS25WKj-Tp08o3atQkTmDuftlhgq7gGBEJk');
-});
